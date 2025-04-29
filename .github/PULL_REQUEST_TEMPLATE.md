@@ -7,7 +7,7 @@ Adiciona implementação de calculadora com funcionalidades básicas de soma e s
 
 ## Ajusta
 
-
+ 
 ## Corrige
 - Nenhuma correção relevante.
 
